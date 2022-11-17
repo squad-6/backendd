@@ -17,7 +17,7 @@ import com.api.acessoescola.model.Parceiro;
 import com.api.acessoescola.serviceImpl.ParceiroServiceImpl;
 
 @RestController
-@RequestMapping("api4")
+@RequestMapping("/parceiro")
 @CrossOrigin("*")
 public class ParceiroControlle {
 

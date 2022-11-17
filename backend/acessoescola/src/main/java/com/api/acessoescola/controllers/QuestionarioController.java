@@ -17,7 +17,7 @@ import com.api.acessoescola.model.Questionario;
 import com.api.acessoescola.serviceImpl.QuestionarioServiceImpl;
 
 @RestController
-@RequestMapping("/api2")
+@RequestMapping("/questionario")
 @CrossOrigin("*")
 public class QuestionarioController {
 

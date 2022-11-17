@@ -19,7 +19,7 @@ import com.api.acessoescola.serviceImpl.DoacaoServiceImpl;
 
 
 @RestController
-@RequestMapping("/api3")
+@RequestMapping("/doacao")
 @CrossOrigin("*")
 public class DoacaoController {
 
